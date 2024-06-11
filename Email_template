@@ -1,1 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Birthday Wishes</title>
+  <link rel="stylesheet" href = "style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Happy Birthday!</h1>
+        <p>Dear [Recipient's Name],</p>
+        <p>Wishing you a day filled with love, joy, and all the happiness in the world! May this special day bring you countless blessings and unforgettable moments.</p>
+        <p>Cheers to another year of wonderful memories and exciting adventures ahead!</p>
+        <p>Best wishes,</p>
+        <p>[Your Name]</p>
+    </div>
+    <div class="footer">
+        <p>This email was sent with love.</p>
+    </div>
+</body>
+</html>
 
