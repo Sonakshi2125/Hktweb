@@ -25,3 +25,20 @@ p {
     margin-top: 20px;
     color: #999;
 }
+.container {
+    position: relative;
+  }
+  
+.gift {
+    width: 400px; 
+    height: auto;
+  }
+  
+.party-popper {
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    top: 50%;
+    left: 50%;
+   
+  }
