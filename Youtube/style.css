@@ -1,20 +1,7 @@
 body {
     overflow-x: hidden;
   }
-/* .navbar-youtube {
-    background-color: #d02020;
-  }
-.search-bar{
-    width:50%;
-   
-}
-.search{
-    border-radius: 50px;
-}
-.button {
-  padding: 2px 2px;
-  cursor: pointer;
-} */
+
 .dark-mode {
   background-color: #181818 !important;
   color: #ffffff !important;
