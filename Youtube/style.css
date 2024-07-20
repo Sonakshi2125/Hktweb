@@ -1,0 +1,68 @@
+body {
+    overflow-x: hidden;
+  }
+/* .navbar-youtube {
+    background-color: #d02020;
+  }
+.search-bar{
+    width:50%;
+   
+}
+.search{
+    border-radius: 50px;
+}
+.button {
+  padding: 2px 2px;
+  cursor: pointer;
+} */
+.dark-mode {
+  background-color: #181818 !important;
+  color: #ffffff !important;
+}
+
+.dark-mode .navbar {
+  background-color: #282828 !important;
+}
+.dark-mode .searchb .form-control{
+  background-color: #333 !important;
+  border-color: #444 !important;
+}
+.dark-mode .searchb .btn{
+  background-color: #333 !important;
+  border-color: #444 !important;
+}
+.searchb{
+  width:50%;
+  margin-left: 80px;
+}
+.searchb .form-control{
+  border-radius: 50px;
+}
+.icon1{
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+.icon{
+  font-size: 1em;
+  margin-top: 20px;
+}
+
+
+.dark-mode .card {
+  background-color: #333 !important;
+  border-color: #444 !important;
+}
+
+.dark-mode .btn-outline-dark {
+  border-color: #ffffff !important;
+  color: #ffffff !important;
+  width:20px;
+}
+.dark-mode .side-panel ul {
+  background-color: #333 !important;
+  border-color: #444 !important;
+}
+.dark-mode .sidebar{
+  background-color: #333 !important;
+  border-color: #444 !important;
+}
